@@ -1,6 +1,8 @@
-# Information about Scripts and Logs for Project #1 -- part 1
+# Basic Shell Scripting
 
-All the scripts can be ran using the ./scripts.sh command. 
+Project for Operating System class at Texas Tech University, with professor Dr. Yong Chen.
+
+All the scripts can be ran using the ./scripts.sh command.
 
 It will produce the greeting_output.txt, displayinfo_output.txt and greeting_modified_output.txt files, which corresponds to all the logs for the scripts greeting.sh, displayinfo.sh, and the modified version of the greeting.sh (which can also be found as greeting_modified.sh in the current directory).
 
